@@ -22,6 +22,6 @@ public class Student {
 	@NotBlank(message = "student name is mandatory")
 	private String stname;
 	
-	
+	System.out.println("Welcome");
 
 }
